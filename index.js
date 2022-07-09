@@ -4,31 +4,31 @@ let movies = [
     name: "falcon and the winter soldier",
     des:
       "Falcon and the Winter Soldier are a mismatched duo who team up for a global adventure that will test their survival skills -- as well as their patience.",
-    image: "images/slider 2.png"
+    image: "images/slider 2.PNG"
   },
   {
     name: "loki",
     des:
       "Loki, the God of Mischief, steps out of his brother's shadow to embark on an adventure that takes place after the events of Avengers Endgame ",
-    image: "images/slider 1.png"
+    image: "images/slider 1.PNG"
   },
   {
     name: "wanda vision",
     des:
       "Living idealized suburban lives, super-powered beings Wanda and Vision begin to suspect that everything is not as it seems.",
-    image: "images/slider 3.png"
+    image: "images/slider 3.PNG"
   },
   {
     name: "RAYA and The Last DRAGON",
     des:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum tempore mollitia autem nobis, dolorem exercitationem minus commodi voluptates iure quas qui eveniet necessitatibus?",
-    image: "images/slider 4.png"
+    image: "images/slider 4.PNG"
   },
   {
     name: "luca",
     des:
       "The movie follows Luca, Alberto, and Giulia's story of friendship and adventure in the Italian Riviera. Recently, Enrico Casarosa, director of Luca, revealed how his childhood inspired the movie. On Disney's official Twitter account, Enrico Casarosa shared how his story helped create Luca's story",
-    image: "images/slider 5.png"
+    image: "images/slider 5.PNG"
   }
 ];
 
